@@ -12,7 +12,7 @@ VGA Playground.
 
 ## How to test
 
-Explain how to use your project
+Input the image information.
 
 ## External hardware
 
